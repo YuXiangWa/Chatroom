@@ -1,4 +1,4 @@
-# 透過Laravel框架與javascript實作而成
+# 透過Laravel框架實作而成
 # 聊天室
 
 # 執行結果
